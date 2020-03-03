@@ -1,2 +1,2 @@
-# EPQ
-My EPQ project.
+# NEA
+My NEA project.
